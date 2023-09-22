@@ -7,5 +7,4 @@
         const message = "You are using " + browserName + " version " + version;
 
         // Find the div element with the id "browser-info" and set its text content
-        const browserInfoDiv = document.getElementById("browser-info");
-        browserInfoDiv.textContent = message;
+   
